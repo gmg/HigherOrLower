@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HigherOrLowerGame.data.unityweb",
+"asmCodeUrl": "HigherOrLowerGame.asm.code.unityweb",
+"asmMemoryUrl": "HigherOrLowerGame.asm.memory.unityweb",
+"asmFrameworkUrl": "HigherOrLowerGame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
